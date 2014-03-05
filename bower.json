@@ -1,0 +1,29 @@
+{
+  "name": "nerves",
+  "version": "0.1.0",
+  "authors": [
+    "InspiredJW <inspired.jw@gmail.com>"
+  ],
+  "description": "abstract layer of backbone that supports pjax",
+  "main": "nerves.js",
+  "keywords": [
+    "nerves",
+    "backbone",
+    "pjax"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/inspiredjw/nerves",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.x",
+    "backbone": "~1.1.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nerves",
+  "version": "0.1.0",
+  "description": "",
+  "main": "nerves.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "time-grunt": "^0.2.10",
+    "load-grunt-tasks": "^0.4.0",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt": "^0.4.2",
+    "grunt-contrib-watch": "^0.5.3"
+  }
+}
