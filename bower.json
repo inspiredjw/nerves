@@ -4,7 +4,7 @@
   "authors": [
     "InspiredJW <inspired.jw@gmail.com>"
   ],
-  "description": "abstract layer of backbone that supports pjax",
+  "description": "An abstract layer of Backbone.js that supports PJAX (PushState + AJAX)",
   "main": "nerves.js",
   "keywords": [
     "nerves",
